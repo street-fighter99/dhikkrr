@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dhikkrr</string>
+    <string name="dikkrmutti">ദിക്ക്ർ മുട്ടി</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="reset_the_counter">reset the counter</string>
+</resources>
